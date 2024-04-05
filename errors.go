@@ -4,7 +4,7 @@ package api
 
 import (
 	json "encoding/json"
-	core "github.com/vellum-ai/vellum-client-go/core"
+	core "github.com/amckinney/vellum-client-go/core"
 )
 
 type BadRequestError struct {

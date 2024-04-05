@@ -1,4 +1,4 @@
-module github.com/vellum-ai/vellum-client-go
+module github.com/amckinney/vellum-client-go
 
 go 1.18
 

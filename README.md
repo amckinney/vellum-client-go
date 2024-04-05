@@ -11,7 +11,7 @@ The Vellum Go library provides convenient access to the Vellum API from Go.
 
 Run the following command to use the Vellum Go library in your module:
 ```sh
-go get github.com/vellum-ai/vellum-client-go
+go get github.com/amckinney/vellum-client-go
 ```
 <!-- End Installation  -->
 
@@ -19,7 +19,7 @@ go get github.com/vellum-ai/vellum-client-go
 # Usage
 
 ```go
-import vellumclientgoclient "github.com/vellum-ai/vellum-client-go/client"
+import vellumclientgoclient "github.com/amckinney/vellum-client-go/client"
 
 client := vellumclientgoclient.NewClient(vellumclientgoclient.WithApiKey("<YOUR_ApiKey>"))
 ```

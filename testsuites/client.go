@@ -5,8 +5,8 @@ package testsuites
 import (
 	context "context"
 	fmt "fmt"
-	vellumclientgo "github.com/vellum-ai/vellum-client-go"
-	core "github.com/vellum-ai/vellum-client-go/core"
+	vellumclientgo "github.com/amckinney/vellum-client-go"
+	core "github.com/amckinney/vellum-client-go/core"
 	http "net/http"
 )
 

@@ -3,7 +3,7 @@
 package client
 
 import (
-	core "github.com/vellum-ai/vellum-client-go/core"
+	core "github.com/amckinney/vellum-client-go/core"
 	http "net/http"
 )
 

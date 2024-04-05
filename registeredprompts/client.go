@@ -7,8 +7,8 @@ import (
 	context "context"
 	json "encoding/json"
 	errors "errors"
-	vellumclientgo "github.com/vellum-ai/vellum-client-go"
-	core "github.com/vellum-ai/vellum-client-go/core"
+	vellumclientgo "github.com/amckinney/vellum-client-go"
+	core "github.com/amckinney/vellum-client-go/core"
 	io "io"
 	http "net/http"
 )
